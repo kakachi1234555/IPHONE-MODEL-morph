@@ -1,6 +1,6 @@
-# XConnecte
+# morph
 
-**XConnecte** est un téléphone innovant offrant des fonctionnalités de **Wi-Fi gratuit** et **appels cellulaires gratuits**. Ce projet vise à offrir une expérience connectée de haute qualité avec des services de communication sans frais supplémentaires.
+**morph** est un téléphone innovant offrant des fonctionnalités de **Wi-Fi gratuit** et **appels cellulaires gratuits**. Ce projet vise à offrir une expérience connectée de haute qualité avec des services de communication sans frais supplémentaires.
 
 ## Fonctionnalités
 
