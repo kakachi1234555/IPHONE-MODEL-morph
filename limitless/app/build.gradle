@@ -1,0 +1,9 @@
+// Application dependencies
+dependencies {
+    implementation 'com.twilio:twilio-android:7.52.0'  // Twilio SDK for calling functionality
+    implementation 'com.google.firebase:firebase-auth:21.0.1' // Firebase authentication (if needed)
+    implementation 'androidx.appcompat:appcompat:1.3.0' // Basic Android support library
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4' // Layout management
+    implementation 'com.google.firebase:firebase-database:20.0.0' // Optional, for saving call data
+    implementation 'com.google.firebase:firebase-analytics:18.0.0' // Optional, for analytics
+}
