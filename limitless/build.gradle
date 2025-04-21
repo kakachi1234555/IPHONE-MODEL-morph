@@ -1,0 +1,7 @@
+allprojects {
+    repositories {
+        google()       // Repositories for Android packages
+        mavenCentral() // For other third-party dependencies
+        jcenter()      // Deprecated, but for legacy dependencies
+    }
+}
