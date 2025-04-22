@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Response>
-    <!-- Message to be read when the call is connected -->
-    <Say voice="alice">Hello, welcome to Twilio!</Say>
-    <!-- Pause for 10 seconds -->
-    <Pause length="10"/>
-    <!-- Goodbye message -->
-    <Say voice="alice">Goodbye!</Say>
-</Response>
